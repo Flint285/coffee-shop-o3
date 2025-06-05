@@ -1,0 +1,4 @@
+[
+  { "id": 1, "category": "Coffee", "name": "Americano", "desc": "Espresso with hot water", "price": 3.5 },
+  { "id": 2, "category": "Tea", "name": "Green Tea", "desc": "Organic sencha", "price": 2.75 }
+]
